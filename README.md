@@ -3,7 +3,7 @@
 
 Sudoku solver text-mode written in python. (Check code [here](https://github.com/wolfian/sudoku-solver/tree/master/text-mode))
 
-[![Run on Repl.it](https://repl.it/badge/github/wolfian/sudoku-solver)](https://repl.it/github/wolfian/sudoku-solver)
+[![Run on Repl.it](https://repl.it/badge/github/wolfian/sudoku-solver)](https://repl.it/@wolfian/sudoku-solver)
 
 Additional module dependecies include: tabulate
 
